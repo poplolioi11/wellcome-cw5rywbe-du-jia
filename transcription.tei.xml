@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -62,10 +62,10 @@
         <div n="1" type="scan" subtype="illustrated-anti-opium-broadside">
           <div type="page-face" n="single">
             <ab type="column" n="1" xml:id="f01-s-c01">
-              <seg type="diplomatic-text">諸位同胞們今日見了這張圖萬不可將此圖看成兒戲的物件卻人</seg>
+              <seg type="diplomatic-text">諸位同胞們今日見了這張圖萬不可將此圖看成兒戲的物件鄙人</seg>
             </ab>
             <ab type="column" n="2" xml:id="f01-s-c02">
-              <seg type="diplomatic-text">因為這鴉片烟的器俱確確是害人終身的物件故此把這烟具烟膏</seg>
+              <seg type="diplomatic-text">因為這鴉片烟的器具確確是害人終身的物件故此把這烟具烟膏</seg>
             </ab>
             <ab type="column" n="3" xml:id="f01-s-c03">
               <seg type="diplomatic-text">全比成最毒最害人的物件烟膏確確是金銀膏每日往口裏吸金銀</seg>
@@ -77,7 +77,7 @@
               <seg type="diplomatic-text">就是毒蠍子因為此物螫人將毒水入至血肉裏去難過的很諸位</seg>
             </ab>
             <ab type="column" n="6" xml:id="f01-s-c06">
-              <seg type="diplomatic-text">萬不可說吃一口身上很爽快教□人看若是吃一口就是挨了</seg>
+              <seg type="diplomatic-text">萬不可說吃一口身上很爽快教鄙人看若是吃一口就是挨了</seg>
             </ab>
             <ab type="column" n="7" xml:id="f01-s-c07">
               <seg type="diplomatic-text">蠍子一回螫人若是終日被蠍子螫日子久了還能生活嗎烟斗比成</seg>
@@ -86,7 +86,7 @@
               <seg type="diplomatic-text">一個疥蛤蟆因為人若生了疥一時難以好烟斗拔子用一個蠍虎</seg>
             </ab>
             <ab type="column" n="9" xml:id="f01-s-c09">
-              <seg type="diplomatic-text">兒此物的確能為死人烟槍是一條大蜈蚣蜈蚣的口齒最毒咬人</seg>
+              <seg type="diplomatic-text">兒此物的溺能為死人烟槍是一條大蜈蚣蜈蚣的口齒最毒咬人</seg>
             </ab>
             <ab type="column" n="10" xml:id="f01-s-c10">
               <seg type="diplomatic-text">一口血肉腐爛烟燈乃是一條毒蛇蛇的舌頭俗語叫作毒劍以</seg>
@@ -101,7 +101,7 @@
               <seg type="diplomatic-text">一個拘魂牌無論何時把他拿起身家性命全不顧了只知快燒烟</seg>
             </ab>
             <ab type="column" n="14" xml:id="f01-s-c14">
-              <seg type="diplomatic-text">炮好過他的癮就如失了魂的一般烟籤子就是一支大籤拿</seg>
+              <seg type="diplomatic-text">炮好過他的癮就如失了魂的一般烟籤子就是一支大鐵拿</seg>
             </ab>
             <ab type="column" n="15" xml:id="f01-s-c15">
               <seg type="diplomatic-text">在手裏如同受大刑的一樣多燒一個烟炮兒就是多加了一點刑法</seg>
@@ -116,7 +116,7 @@
               <seg type="diplomatic-text">是各種小五毒奉勸不吃烟的人萬不可同那吃烟的人一同坐卧</seg>
             </ab>
             <ab type="column" n="19" xml:id="f01-s-c19">
-              <seg type="diplomatic-text">因為聞久了這種烟氣是一樣的受病哪同胞們都快想一想這毒</seg>
+              <seg type="diplomatic-text">因為聞久了這種烟氣是一樣的受病的同胞們都快想一想這毒</seg>
             </ab>
             <ab type="column" n="20" xml:id="f01-s-c20">
               <seg type="diplomatic-text">蠍被毒蛇口中的火一燒就攅到疥蛤蟆的腹内由疥蛤蟆的腹内歸</seg>
@@ -212,26 +212,43 @@
             </ab>
             <ab type="page-feature" subtype="figure-label" facs="#f01-drawing">
               <label>圖中枷上方斜條</label>
-              <seg type="diplomatic-text" rend="unknown">價值二百□四百九十六萬□</seg>
+              <seg type="diplomatic-text" rend="unknown">價值二百兆四百九十六萬　元</seg>
             </ab>
             <ab type="page-feature" subtype="figure-label" facs="#f01-drawing">
               <label>圖中枷下方斜條</label>
-              <seg type="diplomatic-text" rend="unknown">□□□八百五十四萬</seg>
+              <seg type="diplomatic-text" rend="unknown">〔字數未定〕八百五十四萬　□</seg>
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">單幅：單張正面，來源圖為灰階，無可確定的色筆層。上半部直書白話，由右至左一物理欄一行，字間空隙未人工補標點。圖中文字另錄，兩條斜籤的數字不作定讀。上斜條百後近「兆」，末字近「元」；下斜條局部被人物及畫線遮掩，左端字序仍待校，□不表示確知實際缺字數。旗上尚見圖樣與中心十字形，十字不作文字。 單幅：右一起列末「卻人」、第二欄「器俱」、第六欄「教□人看」（缺字外形近部或別）、第九欄「為死人」、第二十欄「攅」「歸」、第二十四欄「守著」、第二十九欄「演」、斜籤等可回圖覆核。正文用「烟」並保留；左下圖旁印款與印目相符。宣統二年庚戌為1910，Walravens 1994 頁53第95條與此同圖，雖著錄相同年號卻誤注1863。毒枷是圖內字，可作借用擬題。 單幅：館方公開影像為一張紙的正面，無背面影像。</ab>
-            <ab type="transcription-issue" n="single:6">
-              <quote>□</quote>
-              <note type="editorial">部分筆畫不清，原圖字形待核。</note>
+            <ab type="layout">單張正面，館方公開影像無背面。灰階圖以直欄記上方白話，無補標點。中段八欄標語、署款和圖內文字各層並存。斜條順原筆走向讀，圖像遮字保留未定。原件署宣統二年庚戌（1910），館方印行書目並列的1863有異。擬題取圖中字。正文記天津的是支會所在地，告示印地待考。</ab>
+            <ab type="transcription-issue" n="single:20">
+              <quote>就攅到</quote>
+              <seg type="candidate">攅</seg>
+              <seg type="candidate">攢</seg>
+              <seg type="candidate">鑽</seg>
+              <note type="editorial">偏旁受背景雜點干擾，暫保留初錄。</note>
             </ab>
-            <ab type="transcription-issue" n="single:31">
-              <quote>圖中枷上方斜條</quote>
-              <note type="editorial">此處墨跡或構件不清，以□保留未定字。</note>
+            <ab type="transcription-issue" n="single:21">
+              <quote>蝎虎溜在</quote>
+              <seg type="candidate">溜</seg>
+              <seg type="candidate">溺</seg>
+              <note type="editorial">水旁可見，右部筆畫待核。</note>
             </ab>
-            <ab type="transcription-issue" n="single:31">
+            <ab type="transcription-issue" n="single:24">
+              <quote>眼前守著</quote>
+              <seg type="candidate">著</seg>
+              <seg type="candidate">着</seg>
+              <note type="editorial">正文保留初讀，異體候補。</note>
+            </ab>
+            <ab type="transcription-issue" n="single:None">
               <quote>圖中枷下方斜條</quote>
-              <note type="editorial">此處墨跡或構件不清，以□保留未定字。</note>
+              <seg type="candidate">磅</seg>
+              <note type="editorial">末字待核。右段受圖畫遮住，缺字數未知。</note>
+            </ab>
+            <ab type="transcription-issue" n="single:None">
+              <quote>左邊框內小款</quote>
+              <seg type="candidate">醒華報館代印</seg>
+              <note type="editorial">首字細刻。保留初讀醒，對應印行圖與末五字。</note>
             </ab>
           </div>
         </div>

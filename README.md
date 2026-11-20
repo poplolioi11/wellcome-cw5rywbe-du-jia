@@ -4,11 +4,11 @@
 
 Du jia, or The Poison Cangue, is a Chinese vernacular anti-opium broadside dated 1910 in its inscription. Ding Yihua is named as its presenter on behalf of the International Reform Bureau. The text and illustration portray opium smoking as a form of punishment and a danger to the household.
 
-## V0.1.0
+## V0.2.0
 
-館藏一張正面影像，逐錄上半部三十一欄正文，中段八欄大字、圖中標籤與底本署款另分層。斜籤個別字與金額留候。AI 輔助逐欄初錄，疑讀另記。
+館藏一張正面影像，逐錄上半部三十一欄正文，中段八欄大字、圖中標籤與底本署款另分層。斜籤個別字與金額留候。比對未見初稿的本機 OCR 候選後，回圖裁定採用 8 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-A single scan includes thirty-one main-text columns, eight large slogan columns, figure labels and the original inscriptions. Uncertain readings in the diagonal labels are marked. AI-assisted initial transcription with uncertain readings marked.
+A single scan includes thirty-one main-text columns, eight large slogan columns, figure labels and the original inscriptions. Uncertain readings in the diagonal labels are marked. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 8 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 

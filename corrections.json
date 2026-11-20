@@ -1,0 +1,277 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 8,
+  "changes": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 1,
+      "kind": "main",
+      "op": "replace",
+      "before": "卻人",
+      "after": "鄙人",
+      "reason": "字有右邑，左部與第6欄同字同形。",
+      "source_bbox": [
+        978,
+        753,
+        1026,
+        815
+      ],
+      "offset": [
+        25,
+        27
+      ],
+      "source_image_sha256": "b46b0885441aa341959ebcd08fa39270ed87ce88225ee651375c2b6eaa8e7867",
+      "canvas": "https://iiif.wellcomecollection.org/image/L0020828"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "kind": "main",
+      "op": "replace",
+      "before": "器俱",
+      "after": "器具",
+      "reason": "具字不另見亻，初錄多讀一旁。",
+      "source_bbox": [
+        950,
+        251,
+        1007,
+        367
+      ],
+      "offset": [
+        7,
+        9
+      ],
+      "source_image_sha256": "b46b0885441aa341959ebcd08fa39270ed87ce88225ee651375c2b6eaa8e7867",
+      "canvas": "https://iiif.wellcomecollection.org/image/L0020828"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 6,
+      "kind": "main",
+      "op": "replace",
+      "before": "教□人看",
+      "after": "教鄙人看",
+      "reason": "教下一字與第1欄鄙同形。",
+      "source_bbox": [
+        834,
+        469,
+        881,
+        563
+      ],
+      "offset": [
+        12,
+        16
+      ],
+      "source_image_sha256": "b46b0885441aa341959ebcd08fa39270ed87ce88225ee651375c2b6eaa8e7867",
+      "canvas": "https://iiif.wellcomecollection.org/image/L0020828"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 9,
+      "kind": "main",
+      "op": "replace",
+      "before": "的確能為死人",
+      "after": "的溺能為死人",
+      "reason": "確位可見水旁及弱形，為字原筆清楚。",
+      "source_bbox": [
+        766,
+        221,
+        820,
+        353
+      ],
+      "offset": [
+        3,
+        9
+      ],
+      "source_image_sha256": "b46b0885441aa341959ebcd08fa39270ed87ce88225ee651375c2b6eaa8e7867",
+      "canvas": "https://iiif.wellcomecollection.org/image/L0020828"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 14,
+      "kind": "main",
+      "op": "replace",
+      "before": "一支大籤",
+      "after": "一支大鐵",
+      "reason": "末字左為金旁，右部有交筆。",
+      "source_bbox": [
+        635,
+        647,
+        697,
+        776
+      ],
+      "offset": [
+        19,
+        23
+      ],
+      "source_image_sha256": "b46b0885441aa341959ebcd08fa39270ed87ce88225ee651375c2b6eaa8e7867",
+      "canvas": "https://iiif.wellcomecollection.org/image/L0020828"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 19,
+      "kind": "main",
+      "op": "replace",
+      "before": "受病哪同胞們",
+      "after": "受病的同胞們",
+      "reason": "病後筆有白、勺形，與鄰欄的字相較。",
+      "source_bbox": [
+        520,
+        457,
+        579,
+        652
+      ],
+      "offset": [
+        13,
+        19
+      ],
+      "source_image_sha256": "b46b0885441aa341959ebcd08fa39270ed87ce88225ee651375c2b6eaa8e7867",
+      "canvas": "https://iiif.wellcomecollection.org/image/L0020828"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "kind": "paratext",
+      "op": "replace",
+      "before": "價值二百□四百九十六萬□",
+      "after": "價值二百兆四百九十六萬　元",
+      "reason": "沿斜字方向回圖，兆與末元可辨，元之前有空格。",
+      "source_bbox": [
+        78,
+        1185,
+        557,
+        1328
+      ],
+      "source_image_sha256": "b46b0885441aa341959ebcd08fa39270ed87ce88225ee651375c2b6eaa8e7867",
+      "canvas": "https://iiif.wellcomecollection.org/image/L0020828"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "kind": "paratext",
+      "op": "replace",
+      "before": "□□□八百五十四萬",
+      "after": "〔字數未定〕八百五十四萬　□",
+      "reason": "起端局部為畫中人物所掩，缺字數不定；末字略近磅，保留候讀。",
+      "source_bbox": [
+        507,
+        1517,
+        937,
+        1640
+      ],
+      "source_image_sha256": "b46b0885441aa341959ebcd08fa39270ed87ce88225ee651375c2b6eaa8e7867",
+      "canvas": "https://iiif.wellcomecollection.org/image/L0020828"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 20,
+      "canvas_id": "https://iiif.wellcomecollection.org/image/L0020828",
+      "status": "字形待核"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 21,
+      "canvas_id": "https://iiif.wellcomecollection.org/image/L0020828",
+      "status": "字形待核"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 24,
+      "canvas_id": "https://iiif.wellcomecollection.org/image/L0020828",
+      "status": "字形待核"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://iiif.wellcomecollection.org/image/L0020828",
+      "status": "字形待核"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://iiif.wellcomecollection.org/image/L0020828",
+      "status": "字形待核"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "source_image_sha256": "b46b0885441aa341959ebcd08fa39270ed87ce88225ee651375c2b6eaa8e7867",
+      "canvas_id": "https://iiif.wellcomecollection.org/image/L0020828",
+      "source_bbox": [
+        169,
+        155,
+        204,
+        477
+      ],
+      "reading": "宣統二年歲次庚戌小陽月",
+      "status": "依原圖留讀",
+      "reason": "年號和干支皆清楚，換算為1910。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "source_image_sha256": "b46b0885441aa341959ebcd08fa39270ed87ce88225ee651375c2b6eaa8e7867",
+      "canvas_id": "https://iiif.wellcomecollection.org/image/L0020828",
+      "source_bbox": [
+        115,
+        195,
+        158,
+        572
+      ],
+      "reading": "萬國改良會全權代表員丁義華敬送",
+      "status": "依原圖留讀",
+      "reason": "保留敬送，署款無撰字。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "source_image_sha256": "b46b0885441aa341959ebcd08fa39270ed87ce88225ee651375c2b6eaa8e7867",
+      "canvas_id": "https://iiif.wellcomecollection.org/image/L0020828",
+      "source_bbox": [
+        80,
+        588,
+        214,
+        866
+      ],
+      "reading": "改良支會",
+      "status": "依原圖留讀",
+      "reason": "四字分在不同白圈。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "source_image_sha256": "b46b0885441aa341959ebcd08fa39270ed87ce88225ee651375c2b6eaa8e7867",
+      "canvas_id": "https://iiif.wellcomecollection.org/image/L0020828",
+      "source_bbox": [
+        589,
+        1453,
+        677,
+        1526
+      ],
+      "reading": "金銀膏",
+      "status": "依原圖留讀",
+      "reason": "右至左，字形可辨。"
+    }
+  ]
+}

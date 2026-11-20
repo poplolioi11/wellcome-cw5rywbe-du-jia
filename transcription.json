@@ -20,11 +20,11 @@
     "manifest_url": "https://iiif.wellcomecollection.org/image/L0020828/info.json",
     "manifest_sha256": "4dbe0f1c746cf310d550f2df15f9f51b62db4eebdc2544e97b00736aaf6dd3e7",
     "record_id": "WELLCW5RYWBE",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": "One complete digitised front of an illustrated anti-opium broadside. Date in the image inscription: Xuantong 2 (1910), differing from the 1863 date used in Walravens (1994).",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "毒枷（1910 年禁煙圖文單，Wellcome Collection Or Chinese, 95） / Du jia [The Poison Cangue]: An illustrated anti-opium broadside: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -44,16 +44,16 @@
       "downloaded_width": 1096,
       "downloaded_height": 1745,
       "content_role": "illustrated-anti-opium-broadside",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "single",
           "columns": [
             {
-              "text": "諸位同胞們今日見了這張圖萬不可將此圖看成兒戲的物件卻人"
+              "text": "諸位同胞們今日見了這張圖萬不可將此圖看成兒戲的物件鄙人"
             },
             {
-              "text": "因為這鴉片烟的器俱確確是害人終身的物件故此把這烟具烟膏"
+              "text": "因為這鴉片烟的器具確確是害人終身的物件故此把這烟具烟膏"
             },
             {
               "text": "全比成最毒最害人的物件烟膏確確是金銀膏每日往口裏吸金銀"
@@ -65,7 +65,7 @@
               "text": "就是毒蠍子因為此物螫人將毒水入至血肉裏去難過的很諸位"
             },
             {
-              "text": "萬不可說吃一口身上很爽快教□人看若是吃一口就是挨了"
+              "text": "萬不可說吃一口身上很爽快教鄙人看若是吃一口就是挨了"
             },
             {
               "text": "蠍子一回螫人若是終日被蠍子螫日子久了還能生活嗎烟斗比成"
@@ -74,7 +74,7 @@
               "text": "一個疥蛤蟆因為人若生了疥一時難以好烟斗拔子用一個蠍虎"
             },
             {
-              "text": "兒此物的確能為死人烟槍是一條大蜈蚣蜈蚣的口齒最毒咬人"
+              "text": "兒此物的溺能為死人烟槍是一條大蜈蚣蜈蚣的口齒最毒咬人"
             },
             {
               "text": "一口血肉腐爛烟燈乃是一條毒蛇蛇的舌頭俗語叫作毒劍以"
@@ -89,7 +89,7 @@
               "text": "一個拘魂牌無論何時把他拿起身家性命全不顧了只知快燒烟"
             },
             {
-              "text": "炮好過他的癮就如失了魂的一般烟籤子就是一支大籤拿"
+              "text": "炮好過他的癮就如失了魂的一般烟籤子就是一支大鐵拿"
             },
             {
               "text": "在手裏如同受大刑的一樣多燒一個烟炮兒就是多加了一點刑法"
@@ -104,7 +104,7 @@
               "text": "是各種小五毒奉勸不吃烟的人萬不可同那吃烟的人一同坐卧"
             },
             {
-              "text": "因為聞久了這種烟氣是一樣的受病哪同胞們都快想一想這毒"
+              "text": "因為聞久了這種烟氣是一樣的受病的同胞們都快想一想這毒"
             },
             {
               "text": "蠍被毒蛇口中的火一燒就攅到疥蛤蟆的腹内由疥蛤蟆的腹内歸"
@@ -149,14 +149,26 @@
               "location": "正文左側年款",
               "text": "宣統二年歲次庚戌小陽月",
               "column_anchor": null,
-              "color": "unknown"
+              "color": "unknown",
+              "source_bbox": [
+                169,
+                155,
+                204,
+                477
+              ]
             },
             {
               "type": "printed-imprint",
               "location": "正文左側署款",
               "text": "萬國改良會全權代表員丁義華敬送",
               "column_anchor": null,
-              "color": "unknown"
+              "color": "unknown",
+              "source_bbox": [
+                115,
+                195,
+                158,
+                572
+              ]
             },
             {
               "type": "printed-imprint",
@@ -227,7 +239,13 @@
               "text": "改良支會",
               "column_anchor": null,
               "color": "unknown",
-              "figure_zone": "f01-drawing"
+              "figure_zone": "f01-drawing",
+              "source_bbox": [
+                80,
+                588,
+                214,
+                866
+              ]
             },
             {
               "type": "figure-label",
@@ -235,7 +253,13 @@
               "text": "金銀膏",
               "column_anchor": null,
               "color": "unknown",
-              "figure_zone": "f01-drawing"
+              "figure_zone": "f01-drawing",
+              "source_bbox": [
+                589,
+                1453,
+                677,
+                1526
+              ]
             },
             {
               "type": "figure-label",
@@ -248,18 +272,30 @@
             {
               "type": "figure-label",
               "location": "圖中枷上方斜條",
-              "text": "價值二百□四百九十六萬□",
+              "text": "價值二百兆四百九十六萬　元",
               "column_anchor": null,
               "color": "unknown",
-              "figure_zone": "f01-drawing"
+              "figure_zone": "f01-drawing",
+              "source_bbox": [
+                78,
+                1185,
+                557,
+                1328
+              ]
             },
             {
               "type": "figure-label",
               "location": "圖中枷下方斜條",
-              "text": "□□□八百五十四萬",
+              "text": "〔字數未定〕八百五十四萬　□",
               "column_anchor": null,
               "color": "unknown",
-              "figure_zone": "f01-drawing"
+              "figure_zone": "f01-drawing",
+              "source_bbox": [
+                507,
+                1517,
+                937,
+                1640
+              ]
             }
           ]
         }
@@ -267,24 +303,52 @@
       "issues": [
         {
           "side": "single",
-          "column": 6,
-          "context": "□",
-          "candidates": [],
-          "note": "部分筆畫不清，原圖字形待核。"
+          "column": 20,
+          "context": "就攅到",
+          "candidates": [
+            "攅",
+            "攢",
+            "鑽"
+          ],
+          "note": "偏旁受背景雜點干擾，暫保留初錄。"
         },
         {
           "side": "single",
-          "column": 31,
-          "context": "圖中枷上方斜條",
-          "candidates": [],
-          "note": "此處墨跡或構件不清，以□保留未定字。"
+          "column": 21,
+          "context": "蝎虎溜在",
+          "candidates": [
+            "溜",
+            "溺"
+          ],
+          "note": "水旁可見，右部筆畫待核。"
         },
         {
           "side": "single",
-          "column": 31,
+          "column": 24,
+          "context": "眼前守著",
+          "candidates": [
+            "著",
+            "着"
+          ],
+          "note": "正文保留初讀，異體候補。"
+        },
+        {
+          "side": "single",
+          "column": null,
           "context": "圖中枷下方斜條",
-          "candidates": [],
-          "note": "此處墨跡或構件不清，以□保留未定字。"
+          "candidates": [
+            "磅"
+          ],
+          "note": "末字待核。右段受圖畫遮住，缺字數未知。"
+        },
+        {
+          "side": "single",
+          "column": null,
+          "context": "左邊框內小款",
+          "candidates": [
+            "醒華報館代印"
+          ],
+          "note": "首字細刻。保留初讀醒，對應印行圖與末五字。"
         }
       ],
       "facsimile_regions": [
@@ -299,7 +363,7 @@
           ]
         }
       ],
-      "observations": "單幅：單張正面，來源圖為灰階，無可確定的色筆層。上半部直書白話，由右至左一物理欄一行，字間空隙未人工補標點。圖中文字另錄，兩條斜籤的數字不作定讀。上斜條百後近「兆」，末字近「元」；下斜條局部被人物及畫線遮掩，左端字序仍待校，□不表示確知實際缺字數。旗上尚見圖樣與中心十字形，十字不作文字。 單幅：右一起列末「卻人」、第二欄「器俱」、第六欄「教□人看」（缺字外形近部或別）、第九欄「為死人」、第二十欄「攅」「歸」、第二十四欄「守著」、第二十九欄「演」、斜籤等可回圖覆核。正文用「烟」並保留；左下圖旁印款與印目相符。宣統二年庚戌為1910，Walravens 1994 頁53第95條與此同圖，雖著錄相同年號卻誤注1863。毒枷是圖內字，可作借用擬題。 單幅：館方公開影像為一張紙的正面，無背面影像。"
+      "observations": "單張正面，館方公開影像無背面。灰階圖以直欄記上方白話，無補標點。中段八欄標語、署款和圖內文字各層並存。斜條順原筆走向讀，圖像遮字保留未定。原件署宣統二年庚戌（1910），館方印行書目並列的1863有異。擬題取圖中字。正文記天津的是支會所在地，告示印地待考。"
     }
   ]
 }

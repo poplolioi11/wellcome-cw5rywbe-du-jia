@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '毒枷（1910 年禁煙圖文單，Wellcome Collection Or Chinese, 95） / Du jia [The Poison Cangue]:
   An illustrated anti-opium broadside: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

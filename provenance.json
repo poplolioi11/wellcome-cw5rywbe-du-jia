@@ -4,10 +4,10 @@
   "source": "https://wellcomecollection.org/works/cw5rywbe",
   "iiif_image_service_info": "https://iiif.wellcomecollection.org/image/L0020828/info.json",
   "source_rights_policy": "https://creativecommons.org/licenses/by/4.0/",
-  "dataset_version": "0.1.0",
+  "dataset_version": "0.2.0",
   "scan_count": 1,
   "content_scan_count": 1,
-  "review_status": "initial-transcription",
+  "review_status": "targeted-image-adjudication",
   "source_image_inventory": [
     {
       "image": 1,

@@ -1,0 +1,20 @@
+{
+  "historical_author": "撰稿人未署名。丁義華敬送，醒華報館代印。",
+  "source_identity": "Wellcome Collection Or Chinese, 95（cw5rywbe；L0020828）",
+  "source": "https://wellcomecollection.org/works/cw5rywbe",
+  "iiif_image_service_info": "https://iiif.wellcomecollection.org/image/L0020828/info.json",
+  "source_rights_policy": "https://creativecommons.org/licenses/by/4.0/",
+  "dataset_version": "0.1.0",
+  "scan_count": 1,
+  "content_scan_count": 1,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://iiif.wellcomecollection.org/image/L0020828",
+      "label": "單張正面",
+      "sha256": "b46b0885441aa341959ebcd08fa39270ed87ce88225ee651375c2b6eaa8e7867",
+      "content_role": "illustrated-anti-opium-broadside"
+    }
+  ]
+}

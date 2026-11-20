@@ -1,0 +1,305 @@
+{
+  "metadata": {
+    "title": "毒枷",
+    "catalogue_title": "Chinese [anti-opium pamphlet].",
+    "alternate_title": "The poison cangue",
+    "roman_title": "Du jia [The poison cangue]",
+    "author": "未詳。丁義華署款敬送，醒華報館代印。",
+    "date": "宣統二年庚戌小陽月（1910），據原件署款。",
+    "location": "英國倫敦（現藏）",
+    "language": "zh",
+    "repository": "Wellcome Collection",
+    "repository_en": "Wellcome Collection",
+    "collection": "Or Chinese",
+    "shelfmark": "Or Chinese, 95（Walravens no. 95）",
+    "catalogue": "https://wellcomecollection.org/works/cw5rywbe",
+    "rights": "https://creativecommons.org/licenses/by/4.0/",
+    "image_service_type": "IIIF Image API 2.0 (info.json)",
+    "source_credit": "Chinese anti-opium pamphlet. Wellcome Collection. CC BY 4.0.",
+    "description": "以刑枷比喻鴉片成癮危害 的圖文勸戒單張。據圖內字詞擬題《毒枷》。正文以白話勸戒，圖題、圖中文字與署款另錄。",
+    "manifest_url": "https://iiif.wellcomecollection.org/image/L0020828/info.json",
+    "manifest_sha256": "4dbe0f1c746cf310d550f2df15f9f51b62db4eebdc2544e97b00736aaf6dd3e7",
+    "record_id": "WELLCW5RYWBE",
+    "edition": "0.1.0",
+    "catalogue_main_scope": "One complete digitised front of an illustrated anti-opium broadside. Date in the image inscription: Xuantong 2 (1910), differing from the 1863 date used in Walravens (1994).",
+    "version": "0.1.0",
+    "dataset_title": "毒枷（1910 年禁煙圖文單，Wellcome Collection Or Chinese, 95） / Du jia [The Poison Cangue]: An illustrated anti-opium broadside: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://iiif.wellcomecollection.org/image/L0020828",
+      "image_url": "https://iiif.wellcomecollection.org/image/L0020828/full/full/0/default.jpg",
+      "label": "單張正面",
+      "file": "01.jpg",
+      "bytes": 794654,
+      "sha256": "b46b0885441aa341959ebcd08fa39270ed87ce88225ee651375c2b6eaa8e7867",
+      "native_width": 1096,
+      "native_height": 1745,
+      "downloaded_width": 1096,
+      "downloaded_height": 1745,
+      "content_role": "illustrated-anti-opium-broadside",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "諸位同胞們今日見了這張圖萬不可將此圖看成兒戲的物件卻人"
+            },
+            {
+              "text": "因為這鴉片烟的器俱確確是害人終身的物件故此把這烟具烟膏"
+            },
+            {
+              "text": "全比成最毒最害人的物件烟膏確確是金銀膏每日往口裏吸金銀"
+            },
+            {
+              "text": "諸位想想把那好好的金銀換了許多的毒藥為的是什麼呢烟炮"
+            },
+            {
+              "text": "就是毒蠍子因為此物螫人將毒水入至血肉裏去難過的很諸位"
+            },
+            {
+              "text": "萬不可說吃一口身上很爽快教□人看若是吃一口就是挨了"
+            },
+            {
+              "text": "蠍子一回螫人若是終日被蠍子螫日子久了還能生活嗎烟斗比成"
+            },
+            {
+              "text": "一個疥蛤蟆因為人若生了疥一時難以好烟斗拔子用一個蠍虎"
+            },
+            {
+              "text": "兒此物的確能為死人烟槍是一條大蜈蚣蜈蚣的口齒最毒咬人"
+            },
+            {
+              "text": "一口血肉腐爛烟燈乃是一條毒蛇蛇的舌頭俗語叫作毒劍以"
+            },
+            {
+              "text": "蛇的舌頭當作燈心以氣為火此種毒氣不問可知蜘蛛網可以"
+            },
+            {
+              "text": "害萬物以此為燈罩日久把家產全被他網了去打烟的烟板是"
+            },
+            {
+              "text": "一個拘魂牌無論何時把他拿起身家性命全不顧了只知快燒烟"
+            },
+            {
+              "text": "炮好過他的癮就如失了魂的一般烟籤子就是一支大籤拿"
+            },
+            {
+              "text": "在手裏如同受大刑的一樣多燒一個烟炮兒就是多加了一點刑法"
+            },
+            {
+              "text": "烟盤子純乎是一面枷自從擺上烟盤子那日起就算是上這面"
+            },
+            {
+              "text": "大烟枷一日不戒此枷就一日不能開釋看那人口裏噴的烟氣全"
+            },
+            {
+              "text": "是各種小五毒奉勸不吃烟的人萬不可同那吃烟的人一同坐卧"
+            },
+            {
+              "text": "因為聞久了這種烟氣是一樣的受病哪同胞們都快想一想這毒"
+            },
+            {
+              "text": "蠍被毒蛇口中的火一燒就攅到疥蛤蟆的腹内由疥蛤蟆的腹内歸"
+            },
+            {
+              "text": "到蠍虎的臟腑中蠍虎溜在蜈蚣的腸胃裏再吸到人的口中你想這"
+            },
+            {
+              "text": "各種的毒氣由蜈蚣口裏吸到我同胞的臟腑裏頭請問諸位這吃"
+            },
+            {
+              "text": "大烟的人還能生活嗎好聞烟的人如何不一同受病呢你看這吃"
+            },
+            {
+              "text": "烟的人眼前守著許多的刑具内裏頭受了許多的毒氣外面又得"
+            },
+            {
+              "text": "受刑法諸位看看可怕不可怕快快的將大烟戒了罷身體可以"
+            },
+            {
+              "text": "健壯家業又可以保全為什麼不把他戒掉了呢現由美國萬"
+            },
+            {
+              "text": "國改良會分出一個改良支會設在中國天津的地方為的"
+            },
+            {
+              "text": "是改良社會風俗現在被這大烟毒害的人實是不少了所"
+            },
+            {
+              "text": "以演出這一篇白話並且繪出一個可怕的圖救我數千萬受"
+            },
+            {
+              "text": "了病的同胞們諸位呀那時拿起烟具來先看看這張圖"
+            },
+            {
+              "text": "到底可怕不可怕"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-imprint",
+              "location": "正文左側年款",
+              "text": "宣統二年歲次庚戌小陽月",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-imprint",
+              "location": "正文左側署款",
+              "text": "萬國改良會全權代表員丁義華敬送",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-imprint",
+              "location": "左邊框內小款",
+              "text": "醒華報館代印",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-slogan",
+              "location": "中下大字第一欄",
+              "text": "外人輸入",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-slogan",
+              "location": "中下大字第二欄",
+              "text": "我國之鴉",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-slogan",
+              "location": "中下大字第三欄",
+              "text": "片烟如無",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-slogan",
+              "location": "中下大字第四欄",
+              "text": "形毒枷我",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-slogan",
+              "location": "中下大字第五欄",
+              "text": "同胞速脫",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-slogan",
+              "location": "中下大字第六欄",
+              "text": "此刑萬勿",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-slogan",
+              "location": "中下大字第七欄",
+              "text": "待七年後",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-slogan",
+              "location": "中下大字第八欄",
+              "text": "以開釋",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "figure-label",
+              "location": "圖中旗上四個白圈",
+              "text": "改良支會",
+              "column_anchor": null,
+              "color": "unknown",
+              "figure_zone": "f01-drawing"
+            },
+            {
+              "type": "figure-label",
+              "location": "圖中罐身",
+              "text": "金銀膏",
+              "column_anchor": null,
+              "color": "unknown",
+              "figure_zone": "f01-drawing"
+            },
+            {
+              "type": "figure-label",
+              "location": "圖中枷上大字",
+              "text": "毒枷",
+              "column_anchor": null,
+              "color": "unknown",
+              "figure_zone": "f01-drawing"
+            },
+            {
+              "type": "figure-label",
+              "location": "圖中枷上方斜條",
+              "text": "價值二百□四百九十六萬□",
+              "column_anchor": null,
+              "color": "unknown",
+              "figure_zone": "f01-drawing"
+            },
+            {
+              "type": "figure-label",
+              "location": "圖中枷下方斜條",
+              "text": "□□□八百五十四萬",
+              "column_anchor": null,
+              "color": "unknown",
+              "figure_zone": "f01-drawing"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": 6,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "single",
+          "column": 31,
+          "context": "圖中枷上方斜條",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        },
+        {
+          "side": "single",
+          "column": 31,
+          "context": "圖中枷下方斜條",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        }
+      ],
+      "facsimile_regions": [
+        {
+          "id": "f01-drawing",
+          "type": "drawing",
+          "bbox": [
+            70,
+            590,
+            1018,
+            1645
+          ]
+        }
+      ],
+      "observations": "單幅：單張正面，來源圖為灰階，無可確定的色筆層。上半部直書白話，由右至左一物理欄一行，字間空隙未人工補標點。圖中文字另錄，兩條斜籤的數字不作定讀。上斜條百後近「兆」，末字近「元」；下斜條局部被人物及畫線遮掩，左端字序仍待校，□不表示確知實際缺字數。旗上尚見圖樣與中心十字形，十字不作文字。 單幅：右一起列末「卻人」、第二欄「器俱」、第六欄「教□人看」（缺字外形近部或別）、第九欄「為死人」、第二十欄「攅」「歸」、第二十四欄「守著」、第二十九欄「演」、斜籤等可回圖覆核。正文用「烟」並保留；左下圖旁印款與印目相符。宣統二年庚戌為1910，Walravens 1994 頁53第95條與此同圖，雖著錄相同年號卻誤注1863。毒枷是圖內字，可作借用擬題。 單幅：館方公開影像為一張紙的正面，無背面影像。"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="zh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>毒枷</title>
+        <title type="alternate">Du jia [The poison cangue]</title>
+        <author>未詳。丁義華署款敬送，醒華報館代印。</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>英國倫敦（現藏）</settlement>
+            <repository>Wellcome Collection</repository>
+            <collection>Or Chinese</collection>
+            <idno>Or Chinese, 95（Walravens no. 95）</idno>
+            <altIdentifier>
+              <idno>WELLCW5RYWBE</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>以刑枷比喻鴉片成癮危害 的圖文勸戒單張。據圖內字詞擬題《毒枷》。正文以白話勸戒，圖題、圖中文字與署款另錄。</p>
+              <ref target="https://wellcomecollection.org/works/cw5rywbe">館方書目</ref>
+              <ref target="https://iiif.wellcomecollection.org/image/L0020828/info.json">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>宣統二年庚戌小陽月（1910），據原件署款。</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>書面與欄按影像實際順序。文字、細注及可定位原筆標記分層，疑字及未錄位置由材料指出。</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://iiif.wellcomecollection.org/image/L0020828" xml:id="f01">
+      <graphic url="https://iiif.wellcomecollection.org/image/L0020828/full/full/0/default.jpg" />
+      <zone type="drawing" ulx="70" uly="590" lrx="1018" lry="1645" xml:id="f01-drawing" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="codex">
+        <pb n="1" facs="#f01" />
+        <div n="1" type="scan" subtype="illustrated-anti-opium-broadside">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f01-s-c01">
+              <seg type="diplomatic-text">諸位同胞們今日見了這張圖萬不可將此圖看成兒戲的物件卻人</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f01-s-c02">
+              <seg type="diplomatic-text">因為這鴉片烟的器俱確確是害人終身的物件故此把這烟具烟膏</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f01-s-c03">
+              <seg type="diplomatic-text">全比成最毒最害人的物件烟膏確確是金銀膏每日往口裏吸金銀</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f01-s-c04">
+              <seg type="diplomatic-text">諸位想想把那好好的金銀換了許多的毒藥為的是什麼呢烟炮</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f01-s-c05">
+              <seg type="diplomatic-text">就是毒蠍子因為此物螫人將毒水入至血肉裏去難過的很諸位</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f01-s-c06">
+              <seg type="diplomatic-text">萬不可說吃一口身上很爽快教□人看若是吃一口就是挨了</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f01-s-c07">
+              <seg type="diplomatic-text">蠍子一回螫人若是終日被蠍子螫日子久了還能生活嗎烟斗比成</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f01-s-c08">
+              <seg type="diplomatic-text">一個疥蛤蟆因為人若生了疥一時難以好烟斗拔子用一個蠍虎</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f01-s-c09">
+              <seg type="diplomatic-text">兒此物的確能為死人烟槍是一條大蜈蚣蜈蚣的口齒最毒咬人</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f01-s-c10">
+              <seg type="diplomatic-text">一口血肉腐爛烟燈乃是一條毒蛇蛇的舌頭俗語叫作毒劍以</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f01-s-c11">
+              <seg type="diplomatic-text">蛇的舌頭當作燈心以氣為火此種毒氣不問可知蜘蛛網可以</seg>
+            </ab>
+            <ab type="column" n="12" xml:id="f01-s-c12">
+              <seg type="diplomatic-text">害萬物以此為燈罩日久把家產全被他網了去打烟的烟板是</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f01-s-c13">
+              <seg type="diplomatic-text">一個拘魂牌無論何時把他拿起身家性命全不顧了只知快燒烟</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f01-s-c14">
+              <seg type="diplomatic-text">炮好過他的癮就如失了魂的一般烟籤子就是一支大籤拿</seg>
+            </ab>
+            <ab type="column" n="15" xml:id="f01-s-c15">
+              <seg type="diplomatic-text">在手裏如同受大刑的一樣多燒一個烟炮兒就是多加了一點刑法</seg>
+            </ab>
+            <ab type="column" n="16" xml:id="f01-s-c16">
+              <seg type="diplomatic-text">烟盤子純乎是一面枷自從擺上烟盤子那日起就算是上這面</seg>
+            </ab>
+            <ab type="column" n="17" xml:id="f01-s-c17">
+              <seg type="diplomatic-text">大烟枷一日不戒此枷就一日不能開釋看那人口裏噴的烟氣全</seg>
+            </ab>
+            <ab type="column" n="18" xml:id="f01-s-c18">
+              <seg type="diplomatic-text">是各種小五毒奉勸不吃烟的人萬不可同那吃烟的人一同坐卧</seg>
+            </ab>
+            <ab type="column" n="19" xml:id="f01-s-c19">
+              <seg type="diplomatic-text">因為聞久了這種烟氣是一樣的受病哪同胞們都快想一想這毒</seg>
+            </ab>
+            <ab type="column" n="20" xml:id="f01-s-c20">
+              <seg type="diplomatic-text">蠍被毒蛇口中的火一燒就攅到疥蛤蟆的腹内由疥蛤蟆的腹内歸</seg>
+            </ab>
+            <ab type="column" n="21" xml:id="f01-s-c21">
+              <seg type="diplomatic-text">到蠍虎的臟腑中蠍虎溜在蜈蚣的腸胃裏再吸到人的口中你想這</seg>
+            </ab>
+            <ab type="column" n="22" xml:id="f01-s-c22">
+              <seg type="diplomatic-text">各種的毒氣由蜈蚣口裏吸到我同胞的臟腑裏頭請問諸位這吃</seg>
+            </ab>
+            <ab type="column" n="23" xml:id="f01-s-c23">
+              <seg type="diplomatic-text">大烟的人還能生活嗎好聞烟的人如何不一同受病呢你看這吃</seg>
+            </ab>
+            <ab type="column" n="24" xml:id="f01-s-c24">
+              <seg type="diplomatic-text">烟的人眼前守著許多的刑具内裏頭受了許多的毒氣外面又得</seg>
+            </ab>
+            <ab type="column" n="25" xml:id="f01-s-c25">
+              <seg type="diplomatic-text">受刑法諸位看看可怕不可怕快快的將大烟戒了罷身體可以</seg>
+            </ab>
+            <ab type="column" n="26" xml:id="f01-s-c26">
+              <seg type="diplomatic-text">健壯家業又可以保全為什麼不把他戒掉了呢現由美國萬</seg>
+            </ab>
+            <ab type="column" n="27" xml:id="f01-s-c27">
+              <seg type="diplomatic-text">國改良會分出一個改良支會設在中國天津的地方為的</seg>
+            </ab>
+            <ab type="column" n="28" xml:id="f01-s-c28">
+              <seg type="diplomatic-text">是改良社會風俗現在被這大烟毒害的人實是不少了所</seg>
+            </ab>
+            <ab type="column" n="29" xml:id="f01-s-c29">
+              <seg type="diplomatic-text">以演出這一篇白話並且繪出一個可怕的圖救我數千萬受</seg>
+            </ab>
+            <ab type="column" n="30" xml:id="f01-s-c30">
+              <seg type="diplomatic-text">了病的同胞們諸位呀那時拿起烟具來先看看這張圖</seg>
+            </ab>
+            <ab type="column" n="31" xml:id="f01-s-c31">
+              <seg type="diplomatic-text">到底可怕不可怕</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-imprint">
+              <label>正文左側年款</label>
+              <seg type="diplomatic-text" rend="unknown">宣統二年歲次庚戌小陽月</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-imprint">
+              <label>正文左側署款</label>
+              <seg type="diplomatic-text" rend="unknown">萬國改良會全權代表員丁義華敬送</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-imprint">
+              <label>左邊框內小款</label>
+              <seg type="diplomatic-text" rend="unknown">醒華報館代印</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-slogan">
+              <label>中下大字第一欄</label>
+              <seg type="diplomatic-text" rend="unknown">外人輸入</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-slogan">
+              <label>中下大字第二欄</label>
+              <seg type="diplomatic-text" rend="unknown">我國之鴉</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-slogan">
+              <label>中下大字第三欄</label>
+              <seg type="diplomatic-text" rend="unknown">片烟如無</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-slogan">
+              <label>中下大字第四欄</label>
+              <seg type="diplomatic-text" rend="unknown">形毒枷我</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-slogan">
+              <label>中下大字第五欄</label>
+              <seg type="diplomatic-text" rend="unknown">同胞速脫</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-slogan">
+              <label>中下大字第六欄</label>
+              <seg type="diplomatic-text" rend="unknown">此刑萬勿</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-slogan">
+              <label>中下大字第七欄</label>
+              <seg type="diplomatic-text" rend="unknown">待七年後</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-slogan">
+              <label>中下大字第八欄</label>
+              <seg type="diplomatic-text" rend="unknown">以開釋</seg>
+            </ab>
+            <ab type="page-feature" subtype="figure-label" facs="#f01-drawing">
+              <label>圖中旗上四個白圈</label>
+              <seg type="diplomatic-text" rend="unknown">改良支會</seg>
+            </ab>
+            <ab type="page-feature" subtype="figure-label" facs="#f01-drawing">
+              <label>圖中罐身</label>
+              <seg type="diplomatic-text" rend="unknown">金銀膏</seg>
+            </ab>
+            <ab type="page-feature" subtype="figure-label" facs="#f01-drawing">
+              <label>圖中枷上大字</label>
+              <seg type="diplomatic-text" rend="unknown">毒枷</seg>
+            </ab>
+            <ab type="page-feature" subtype="figure-label" facs="#f01-drawing">
+              <label>圖中枷上方斜條</label>
+              <seg type="diplomatic-text" rend="unknown">價值二百□四百九十六萬□</seg>
+            </ab>
+            <ab type="page-feature" subtype="figure-label" facs="#f01-drawing">
+              <label>圖中枷下方斜條</label>
+              <seg type="diplomatic-text" rend="unknown">□□□八百五十四萬</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：單張正面，來源圖為灰階，無可確定的色筆層。上半部直書白話，由右至左一物理欄一行，字間空隙未人工補標點。圖中文字另錄，兩條斜籤的數字不作定讀。上斜條百後近「兆」，末字近「元」；下斜條局部被人物及畫線遮掩，左端字序仍待校，□不表示確知實際缺字數。旗上尚見圖樣與中心十字形，十字不作文字。 單幅：右一起列末「卻人」、第二欄「器俱」、第六欄「教□人看」（缺字外形近部或別）、第九欄「為死人」、第二十欄「攅」「歸」、第二十四欄「守著」、第二十九欄「演」、斜籤等可回圖覆核。正文用「烟」並保留；左下圖旁印款與印目相符。宣統二年庚戌為1910，Walravens 1994 頁53第95條與此同圖，雖著錄相同年號卻誤注1863。毒枷是圖內字，可作借用擬題。 單幅：館方公開影像為一張紙的正面，無背面影像。</ab>
+            <ab type="transcription-issue" n="single:6">
+              <quote>□</quote>
+              <note type="editorial">部分筆畫不清，原圖字形待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="single:31">
+              <quote>圖中枷上方斜條</quote>
+              <note type="editorial">此處墨跡或構件不清，以□保留未定字。</note>
+            </ab>
+            <ab type="transcription-issue" n="single:31">
+              <quote>圖中枷下方斜條</quote>
+              <note type="editorial">此處墨跡或構件不清，以□保留未定字。</note>
+            </ab>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
